@@ -205,7 +205,7 @@ pickleshare==0.7.5
 Pillow==7.1.2
 prometheus-client==0.7.1
 prompt-toolkit==3.0.3
-protobuf==3.6.1
+protobuf==3.15.0
 psycopg2==2.8.4
 ptyprocess==0.6.0
 pycodestyle==2.5.0
